@@ -495,8 +495,7 @@ class BuildingAPI(APIView):
                 status=status.HTTP_400_BAD_REQUEST
             )
         
-
-
+        
 class OfficeAPI(APIView):
     """The Office API class is a view for handling API requests related to Office."""
 

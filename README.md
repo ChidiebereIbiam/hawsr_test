@@ -18,6 +18,11 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+Using Docker
+```bash
+docker-compose up -d --build
+```
+
 
 ### User Endpoints
 ##### 1. Retrieve All Users 
