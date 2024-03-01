@@ -1,4 +1,5 @@
 # Hawsr Test By Chidiebere
+An API using Django REST Framework (DRF) for Admins to managing users, workers, buildings, offices and assign users to offices
 
 ## Primary Modules
 
